@@ -1,0 +1,49 @@
+CL - Ham Petrol (WTI) - 30.03.1983
+NG - Doğal Gaz - 03.04.1990
+GC - Altın - 31.12.1974
+SI - Gümüş - 01.07.1969
+HG - Bakır - 01.01.1988
+ZC - Mısır (Chicago) - 01.01.1877
+ZW - Buğday (Chicago) - 01.01.1877
+ZS - Soya Fasulyesi (Chicago) - 01.01.1936
+ZL - Soya Yağı - 01.01.1950
+ZM - Soya Unu - 01.01.1951
+SB - Şeker #11 - 01.01.1914
+CC - Kakao - 01.01.1925
+CT - Pamuk #2 - 01.01.1870
+KC - Kahve C - 01.01.1882
+LB - Kereste - 01.01.1969
+PA - Paladyum - 01.01.1968
+PL - Platin - 01.01.1956
+ALI - Alüminyum (LME) - 01.01.1978
+ZN - Çinko (LME) - 01.01.1920
+NI - Nikel (LME) - 01.01.1979
+LE - Canlı Sığır - 01.01.1964
+HE - Besi Sığırı - 01.01.1964
+GF - Canlı Domuz - 01.01.1966
+RB - Benzin (RBOB) - 03.10.2005
+HO - Isıtma Yağı - 01.01.1978
+QS - Düşük Kükürtlü Dizel - 01.01.2010
+B0 - Brent Ham Petrol - 23.06.1988
+XAU - Altın (Spot) - 01.01.1968
+XAG - Gümüş (Spot) - 01.01.1968
+XPT - Platin (Spot) - 01.01.1968
+LIT - Lityum (Global X ETF) - 22.07.2010
+URA - Uranyum (North Shore ETF) - 15.12.2010
+COW - Yem Tahılları ETF - 10.09.2007
+WEAT - Buğday ETF - 19.09.2011
+CORN - Mısır ETF - 09.06.2010
+SOYB - Soya Fasulyesi ETF - 09.09.2011
+NIB - Kakao ETF - 10.01.2008
+JO - Kahve ETF - 21.04.2008
+SGG - Şeker ETF - 21.09.2007
+PALL - Paladyum ETF - 08.01.2010
+PPLT - Platin ETF - 05.01.2010
+JJN - Nikel ETF - 05.05.2007
+JJU - Alüminyum ETF - 05.05.2007
+CPER - Bakır ETF - 15.11.2011
+USO - Petrol ETF - 10.04.2006
+UNG - Doğal Gaz ETF - 18.04.2007
+UGA - Benzin ETF - 06.02.2008
+DBB - Endüstriyel Metaller ETF - 19.01.2007
+DBA - Tarım Ürünleri ETF - 20.09.2007

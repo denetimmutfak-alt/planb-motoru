@@ -1,0 +1,265 @@
+BIST 300 HİSSE LİSTESİ
+
+BIST 30 (Büyük Şirketler):
+ASELS.IS - Aselsan Elektronik
+AKBNK.IS - Akbank
+BIMAS.IS - BİM Birleşik Mağazalar
+EREGL.IS - Ereğli Demir Çelik
+FROTO.IS - Ford Otosan
+GARAN.IS - Garanti BBVA
+HALKB.IS - Halkbank
+ISCTR.IS - İş Bankası
+KCHOL.IS - Koç Holding
+KOZAL.IS - Koza Altın
+PETKM.IS - Petkim
+SAHOL.IS - Sabancı Holding
+SASA.IS - Sasa Polyester
+THYAO.IS - Türk Hava Yolları
+TUPRS.IS - Tüpraş
+VAKBN.IS - VakıfBank
+YKBNK.IS - Yapı Kredi
+ARCLK.IS - Arçelik
+BRSAN.IS - Borusan
+CCOLA.IS - Coca Cola İçecek
+DOHOL.IS - Doğan Holding
+EKGYO.IS - Emlak Konut GYO
+ENKAI.IS - Enka İnşaat
+FMIZP.IS - F-M İzmit Piston
+GUBRF.IS - Gübretaş
+HUNER.IS - Hünkar Enerji
+KRDMD.IS - Kardemir
+LOGO.IS - Logo Yazılım
+MGROS.IS - Migros
+NETAS.IS - Netas
+
+BIST 50 (Orta Büyüklükteki Şirketler):
+ADANA.IS - Adana Çimento
+ADNAC.IS - Adnan Menderes
+AGHOL.IS - Ağaç Gıda
+AKCNS.IS - Akçansa
+AKGRT.IS - Akfen GYO
+AKSEN.IS - Aksa Enerji
+ALARK.IS - Alarko Holding
+ALBRK.IS - Albaraka Türk
+ALCTL.IS - Alcatel Lucent
+ALFAS.IS - Alfa Solar
+ALGYO.IS - Alarko GYO
+ALKIM.IS - Alkim Alkali
+ALTIN.IS - Altın
+ANACM.IS - Anadolu Cam
+ANSGR.IS - Anadolu Sigorta
+ARENA.IS - Arena Bilgisayar
+ASTOR.IS - Astor Enerji
+ATAGY.IS - Ata GYO
+ATLAS.IS - Atlas Yatırım
+AVOD.IS - Avod
+AYCES.IS - Ayçe Enerji
+AYDEM.IS - Aydem Enerji
+AYEN.IS - Aydem Enerji
+AYGAZ.IS - Aygaz
+BAGFS.IS - Bağfaş
+BAKAB.IS - Bakırköy
+BALAT.IS - Balat
+BANVT.IS - Banvit
+BARMA.IS - Barmak
+BASGZ.IS - Başgaz
+BFREN.IS - BFR Enerji
+BIOEN.IS - Biotrend Enerji
+BIZIM.IS - Bizim Toptan
+BLCYT.IS - Bilici Yatırım
+BMSCH.IS - BMS Çelik
+BNTAS.IS - Bantaş
+BOBET.IS - Bobet
+BOSSA.IS - Bossa
+BRISA.IS - Brisa
+BRKO.IS - Birko
+BRKVY.IS - Birko Vakıf
+BRYAT.IS - Birko Yatırım
+BUCIM.IS - Bursa Çimento
+BURCE.IS - Bursa Çimento
+CANTE.IS - Cante
+CEMTS.IS - Çimsa
+CIMSA.IS - Çimsa
+DAGI.IS - Dagi
+DEVA.IS - Deva Holding
+DURDO.IS - Durdo
+ECILC.IS - Ecilc
+EGEEN.IS - Ege Enerji
+EGEPO.IS - Ege Portföy
+EKIZ.IS - Ekiz
+EMKEL.IS - Emkel
+ENJSI.IS - Enjsi
+ERBOS.IS - Erbosan
+ESCOM.IS - Escom
+FENER.IS - Fenerbahçe
+FORTE.IS - Forte
+GENTS.IS - Gents
+GSDHO.IS - GSD Holding
+HAVVA.IS - Havva
+HDFGS.IS - HDF Gıda
+HEKTS.IS - Hektaş
+ISDMR.IS - İş DMR
+IZINV.IS - İzmir Yatırım
+IZMDC.IS - İzmir DMC
+KAREL.IS - Karel
+KARSN.IS - Karsan
+KARTN.IS - Kartonsan
+KATMR.IS - Katmerciler
+KONTR.IS - Kontrolmatik
+KORDS.IS - Kordsa
+KRONT.IS - Kront
+MEGAP.IS - Megapol
+MERIT.IS - Merit
+METUR.IS - Metur
+MPARK.IS - M Park
+NTHOL.IS - Net Holding
+ODAS.IS - Odas
+OTKAR.IS - Otokar
+PAPIL.IS - Papil
+PARSN.IS - Parsan
+PETUN.IS - Petun
+PINSU.IS - Pınar Su
+PNSUT.IS - Pınar Süt
+POLHO.IS - Polat Holding
+PRKAB.IS - Park Elektrik
+QUAGR.IS - Qua Granit
+RAYSG.IS - Raysan
+ROYAL.IS - Royal
+SANEL.IS - Sanel
+SARKY.IS - Sarkuysan
+SEYKM.IS - Seyitler Kimya
+SNPAM.IS - Sinpaş GYO
+
+BIST 100 (Genişletilmiş Liste):
+AEFES.IS - Anadolu Efes
+AHGAZ.IS - Aygaz
+AKFGY.IS - Akfen GYO
+AKSA.IS - Aksa Enerji
+ALCIM.IS - Alçi
+ALKT.IS - Alkat
+ALMAD.IS - Almad
+AZGBR.IS - Azgbr
+BARIŞ.IS - Barış
+BERA.IS - Bera
+BIENY.IS - Bieny
+BIGCH.IS - Big Chef
+BLBGY.IS - Blbgy
+BLSYM.IS - Blsym
+BSOBE.IS - Bsobe
+BTCIM.IS - Btcim
+BUHOLD.IS - Buhold
+BVGZO.IS - Bvgzo
+CDIGO.IS - Cdig
+CEDMO.IS - Cedmo
+CFRAM.IS - Cfram
+DOAS.IS - Doas
+ECZYT.IS - Eczacıbaşı
+ENERY.IS - Enerji
+ENSER.IS - Enser
+ERENK.IS - Eren Enerji
+ERGOV.IS - Ergov
+ERUYG.IS - Eruyg
+ESTIM.IS - Estim
+EUHOLD.IS - Euhold
+EUREN.IS - Euren
+EYDES.IS - Eydes
+EYILM.IS - Eyilm
+FADEF.IS - Fadef
+FGENP.IS - Fgenp
+FRONT.IS - Front
+GESAN.IS - Gesan
+GUVEN.IS - Güven
+HUMBT.IS - Humbt
+HYDRO.IS - Hydro
+ICBGM.IS - Icbgm
+ICFAS.IS - Icfas
+ICHLF.IS - Ichlf
+IEYHO.IS - Ieyho
+ISMEN.IS - İsmen
+IZENR.IS - Izenr
+IZFAS.IS - Izfas
+KCAHE.IS - Kcahe
+KENT.IS - Kent
+KERVT.IS - Kervt
+KLNKA.IS - Klnka
+NUHCMR.IS - Nuh Çimento
+OYAKCN.IS - Oyak Çimento
+OZGYO.IS - Öz GYO
+OZKAR.IS - Öz Kar
+OZKCM.IS - Öz Kcm
+OZKSP.IS - Öz Ksp
+PENTA.IS - Penta
+PETGM.IS - Petgm
+PGSUS.IS - Pgsus
+PKBHN.IS - Pkbhn
+PLAZA.IS - Plaza
+POLEN.IS - Polen
+POLTK.IS - Poltk
+PRTS.IS - Prts
+PSDUD.IS - Psdud
+RENBIL.IS - Renbil
+RENTS.IS - Rents
+RHBYO.IS - Rhbyo
+RNPOL.IS - Rnpol
+RODRG.IS - Rodrg
+SAYIL.IS - Sayıl
+SDTBT.IS - Sdtbt
+SEGAY.IS - Segay
+SEKURY.IS - Sekury
+SELEC.IS - Selec
+SERBL.IS - Serbl
+SETUR.IS - Setur
+SISE.IS - Şişe Cam
+SKBNK.IS - Şekerbank
+SMRTG.IS - Smart Güneş
+SOKE.IS - Söke
+STCRP.IS - Stc
+STRATE.IS - Strate
+SUNER.IS - Suner
+SUNGUR.IS - Sungur
+SURAL.IS - Sural
+SUSYO.IS - Susyo
+SVCHE.IS - Svche
+TABGD.IS - Tabgd
+TALEN.IS - Talen
+TAVHL.IS - TAV Havalimanları
+TCELL.IS - Turkcell
+TEKTAS.IS - Tektaş
+TEPEGM.IS - Tepegm
+TERA.IS - Tera
+TESBM.IS - Tesbm
+TGRT.IS - Tgrt
+TOASO.IS - Tofaş
+TOGG.IS - Togg
+TOKI.IS - TOKİ
+TORKU.IS - Torku
+TPKS.IS - Tpks
+TRGYO.IS - Trgyo
+TRILC.IS - Trilic
+TTKOM.IS - TTKOM
+TTRAK.IS - Ttrak
+TUKAS.IS - Tukas
+TURIZ.IS - Turiz
+TURSG.IS - Tursg
+TUSAŞ.IS - TUSAŞ
+TUVSD.IS - Tuvsd
+TWFEV.IS - Twfev
+TYFIL.IS - Tyfil
+ULKAL.IS - Ulkal
+ULUSE.IS - Uluse
+UMNEV.IS - Umnev
+UNEURO.IS - Uneuro
+UPCYN.IS - Upcyn
+VESTEL.IS - Vestel
+VKSA.IS - Vksa
+VNSYM.IS - Vnsym
+YATRM.IS - Yatırım
+YAYLA.IS - Yayla
+YBKTM.IS - Ybktm
+YATRK.IS - Yatırık
+YTLGM.IS - Ytlgm
+ZRGYO.IS - Zorlu GYO
+ZORLU.IS - Zorlu
+ZOREN.IS - Zoren
+
+TOPLAM: 300+ hisse senedi

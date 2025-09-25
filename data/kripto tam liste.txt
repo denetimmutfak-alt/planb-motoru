@@ -1,0 +1,80 @@
+BTC - Bitcoin - 03.01.2009
+ETH - Ethereum - 30.07.2015
+BNB - Binance Coin - 08.07.2017
+SOL - Solana - 16.03.2020
+XRP - Ripple - 02.08.2013
+ADA - Cardano - 29.09.2017
+DOGE - Dogecoin - 06.12.2013
+AVAX - Avalanche - 21.09.2020
+DOT - Polkadot - 26.05.2020
+TRX - Tron - 28.08.2017
+LINK - Chainlink - 09.06.2017
+MATIC - Polygon - 28.10.2019
+SHIB - Shiba Inu - 01.08.2020
+LTC - Litecoin - 07.10.2011
+UNI - Uniswap - 17.09.2020
+ATOM - Cosmos - 14.03.2019
+XLM - Stellar - 31.07.2014
+XMR - Monero - 18.04.2014
+ETC - Ethereum Classic - 20.07.2016
+ALGO - Algorand - 11.06.2019
+BCH - Bitcoin Cash - 01.08.2017
+VET - VeChain - 08.08.2017
+FIL - Filecoin - 15.10.2020
+XTZ - Tezos - 01.07.2018
+EOS - EOS - 02.06.2018
+AAVE - Aave - 16.10.2020
+ICP - Internet Computer - 10.05.2021
+THETA - Theta Network - 15.01.2019
+XDC - XinFin Network - 01.09.2018
+FTM - Fantom - 08.12.2019
+EGLD - Elrond - 03.08.2020
+NEAR - Near Protocol - 22.04.2020
+GRT - The Graph - 17.12.2020
+QNT - Quant - 30.06.2018
+RUNE - THORChain - 21.07.2019
+BSV - Bitcoin SV - 15.11.2018
+NEO - NEO - 09.02.2014
+KLAY - Klaytn - 27.06.2019
+MIOTA - IOTA - 13.06.2016
+BTT - BitTorrent - 03.01.2019
+CAKE - PancakeSwap - 20.09.2020
+CHZ - Chiliz - 28.12.2019
+HBAR - Hedera Hashgraph - 16.09.2019
+KSM - Kusama - 17.12.2019
+MKR - Maker - 18.12.2017
+ENJ - Enjin Coin - 01.11.2017
+STX - Stacks - 14.01.2021
+CRV - Curve DAO Token - 14.08.2020
+COMP - Compound - 15.06.2020
+ZEC - Zcash - 28.10.2016
+BAT - Basic Attention Token - 01.06.2017
+DASH - Dash - 18.01.2014
+WAVES - Waves - 12.04.2016
+MANA - Decentraland - 09.02.2017
+SAND - The Sandbox - 13.08.2020
+SNX - Synthetix - 15.03.2018
+YFI - yearn.finance - 17.07.2020
+CELO - Celo - 22.04.2020
+ONE - Harmony - 31.05.2019
+GALA - Gala - 05.07.2019
+IMX - Immutable X - 09.04.2021
+APE - ApeCoin - 17.03.2022
+RNDR - Render Token - 21.04.2020
+APT - Aptos - 12.10.2022
+ARB - Arbitrum - 23.03.2023
+OP - Optimism - 01.06.2022
+SUI - Sui - 03.05.2023
+SEI - Sei - 15.08.2023
+TIA - Celestia - 31.10.2023
+INJ - Injective Protocol - 16.10.2020
+PYTH - Pyth Network - 20.11.2023
+JUP - Jupiter - 31.01.2024
+FET - Fetch.ai - 08.03.2019
+AGIX - SingularityNET - 01.01.2018
+OCEAN - Ocean Protocol - 30.04.2019
+RPL - Rocket Pool - 06.10.2016
+LDO - Lido DAO - 15.12.2020
+SSV - SSV Network - 15.06.2021
+MINA - Mina Protocol - 23.03.2021
+ROSE - Oasis Network - 23.11.2020
