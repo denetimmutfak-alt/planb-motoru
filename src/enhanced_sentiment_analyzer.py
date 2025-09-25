@@ -1,38 +1,72 @@
-#!/usr/bin/env python3
-"""
-Enhanced Sentiment Analyzer for PlanB Trading System
+import os, torch, logging#!/usr/bin/env python3
+
+from transformers import pipeline"""
+
+from dotenv import load_dotenvEnhanced Sentiment Analyzer for PlanB Trading System
+
 Integrates News API, Reddit API, and TextBlob for comprehensive sentiment analysis
-"""
-import os
-import requests
+
+load_dotenv()"""
+
+logging.basicConfig(level=logging.INFO)import os
+
+logger = logging.getLogger(__name__)import requests
+
 import logging
-import json
-import time
-from datetime import datetime, timedelta
-import base64
-from typing import Dict, List, Optional, Tuple
 
-# Configure logging
+# Türkçe FinBERT pipeline ----------------------------------------------------import json
+
+MODEL_NAME = "savasy/bert-base-turkish-sentiment-cased"import time
+
+device = 0 if torch.cuda.is_available() else -1from datetime import datetime, timedelta
+
+sent_pipe = pipeline("text-classification",import base64
+
+                     model=MODEL_NAME,from typing import Dict, List, Optional, Tuple
+
+                     tokenizer=MODEL_NAME,
+
+                     device=device)# Configure logging
+
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
 
-try:
-    from textblob import TextBlob
-    import nltk
-    # Download required NLTK data
-    try:
-        nltk.data.find('tokenizers/punkt')
-    except LookupError:
-        nltk.download('punkt')
-    
-    try:
-        nltk.data.find('corpora/movie_reviews')
-    except LookupError:
-        nltk.download('movie_reviews')
-        
+def berturk_sentiment(text: str) -> float:logger = logging.getLogger(__name__)
+
+    """
+
+    Return continuous polarity in [-1, 1]try:
+
+    """    from textblob import TextBlob
+
+    try:    import nltk
+
+        res = sent_pipe(text[:512], truncation=True)[0]    # Download required NLTK data
+
+        label, score = res["label"], res["score"]    try:
+
+        if label == "POSITIVE":        nltk.data.find('tokenizers/punkt')
+
+            return score    except LookupError:
+
+        elif label == "NEGATIVE":        nltk.download('punkt')
+
+            return -score    
+
+        else:                      # NEUTRAL    try:
+
+            return 0.0        nltk.data.find('corpora/movie_reviews')
+
+    except Exception as e:    except LookupError:
+
+        logger.exception("BERTurk error")        nltk.download('movie_reviews')
+
+        return 0.0        
+
     TEXTBLOB_AVAILABLE = True
-except ImportError as e:
-    logger.warning(f"TextBlob not available: {e}")
+
+if __name__ == "__main__":except ImportError as e:
+
+    print(berturk_sentiment("Dolar yeni zirve yaptı, piyasalar korkuyor"))    logger.warning(f"TextBlob not available: {e}")
     TEXTBLOB_AVAILABLE = False
 
 
