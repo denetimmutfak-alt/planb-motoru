@@ -56,6 +56,7 @@ def inject_env():
         "MAX_WORKERS": "4",
         "CHUNK_SIZE": "50",
         "REQUEST_TIMEOUT": "30",
+        "SLEEP_BETWEEN_CYCLES": "3600",  # 60 dakika (1 saat)
         
         # Feature Flags
         "ENABLE_SENTIMENT": "true",

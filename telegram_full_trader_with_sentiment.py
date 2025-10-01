@@ -97,7 +97,7 @@ YF_INTERVAL = os.getenv("YF_INTERVAL", "1d")
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "10"))
 SYMBOL_TIMEOUT = int(os.getenv("SYMBOL_TIMEOUT", "30"))
 BATCH_TIMEOUT = int(os.getenv("BATCH_TIMEOUT", "300"))
-SLEEP_BETWEEN_CYCLES = int(os.getenv("SLEEP_BETWEEN_CYCLES", "900"))  # 15 dk
+SLEEP_BETWEEN_CYCLES = int(os.getenv("SLEEP_BETWEEN_CYCLES", "3600"))  # 60 dk (1 saat)
 
 STRONG_THRESHOLD = float(os.getenv("STRONG_THRESHOLD", "65"))  # 65+
 MAX_SIGNALS_IN_FIRST_MSG = int(os.getenv("MAX_SIGNALS_IN_FIRST_MSG", "12"))
