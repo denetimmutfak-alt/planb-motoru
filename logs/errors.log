@@ -1,0 +1,2 @@
+2025-10-01 21:17:39 | ERROR | src.utils.logger:log_error:75 | XETRA sembolleri resmi siteden yüklenirken hata: 404 Client Error: Not Found for url: https://www.boerse-frankfurt.de/en/data/equities
+2025-10-01 21:17:40 | ERROR | src.utils.logger:log_error:75 | Investing'den yükleme hatası: 403 Client Error: Forbidden for url: https://www.investing.com/equities/germany

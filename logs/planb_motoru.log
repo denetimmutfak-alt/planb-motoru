@@ -1,0 +1,33 @@
+2025-10-01 21:17:21 | INFO | src.utils.logger:log_info:67 | Shemitah Cycle Analyzer başlatıldı
+2025-10-01 21:17:21 | INFO | src.utils.logger:log_info:67 | Gann Technique Analyzer başlatıldı
+2025-10-01 21:17:21 | INFO | src.utils.logger:log_info:67 | Ultra Economic Cycle Analyzer initialized with professional macro indicators
+2025-10-01 21:17:21 | INFO | src.utils.logger:log_info:67 | Economic Cycle Analyzer (compatibility mode) initialized
+2025-10-01 21:17:23 | INFO | src.utils.logger:log_info:67 | BIST: 745 sembol yüklendi (tam listeden)
+2025-10-01 21:17:23 | INFO | src.utils.logger:log_info:67 | NASDAQ: 109 sembol yüklendi (tam listeye göre)
+2025-10-01 21:17:39 | ERROR | src.utils.logger:log_error:75 | XETRA sembolleri resmi siteden yüklenirken hata: 404 Client Error: Not Found for url: https://www.boerse-frankfurt.de/en/data/equities
+2025-10-01 21:17:40 | ERROR | src.utils.logger:log_error:75 | Investing'den yükleme hatası: 403 Client Error: Forbidden for url: https://www.investing.com/equities/germany
+2025-10-01 21:17:40 | WARNING | src.utils.logger:log_warning:71 | XETRA: Tam listeye göre güncellenmiş sembol listesi kullanılıyor (157 sembol)
+2025-10-01 21:17:40 | WARNING | src.utils.logger:log_warning:71 | Crypto: Tam listeye göre güncellenmiş sembol listesi kullanılıyor (80 sembol)
+2025-10-01 21:17:40 | INFO | src.utils.logger:log_info:67 | Crypto: 80 sembol yüklendi (tam liste)
+2025-10-01 21:17:41 | WARNING | src.utils.logger:log_warning:71 | Commodities: Tam listeye göre güncellenmiş sembol listesi kullanılıyor (49 sembol)
+2025-10-01 21:17:41 | INFO | src.utils.logger:log_info:67 | Commodities: 49 sembol yüklendi (Yahoo Finance)
+2025-10-01 21:17:41 | INFO | src.utils.logger:log_info:67 | SimpleProvider (Yahoo Finance) aktif edildi
+2025-10-01 21:17:41 | INFO | src.utils.logger:log_info:67 | Market data provider başlatıldı
+2025-10-01 21:17:41 | INFO | src.utils.logger:log_info:67 | Gann Technique Analyzer başlatıldı
+2025-10-01 21:17:44 | INFO | src.utils.logger:log_info:67 | FinancialAnalyzer başlatıldı
+2025-10-01 21:17:44 | SUCCESS | src.utils.logger:log_success:83 | Veritabanı hazırlandı
+2025-10-01 21:17:44 | INFO | src.utils.logger:log_info:67 | AAPL analiz ediliyor...
+2025-10-01 21:17:57 | INFO | src.utils.logger:log_info:67 | AAPL verisi alındı (251 gün)
+2025-10-01 21:18:11 | INFO | src.utils.logger:log_info:67 | AAPL: Finansal sağlamlık puanı: 0/100
+2025-10-01 21:18:11 | INFO | src.utils.logger:log_info:67 | AAPL: Kapsamlı astroloji skoru: 53.20
+2025-10-01 21:18:11 | INFO | src.utils.logger:log_info:67 | AAPL: 6 isolation forest anomali tespit edildi
+2025-10-01 21:18:11 | INFO | src.utils.logger:log_info:67 | Ultra Shemitah Analyzer initialized with Biblical financial cycle modeling
+2025-10-01 21:18:11 | INFO | src.utils.logger:log_info:67 | Shemitah Analyzer (compatibility mode) initialized
+2025-10-01 21:18:11 | INFO | src.utils.logger:log_info:67 | Ultra Solar Cycle Analyzer initialized with professional space weather data
+2025-10-01 21:18:11 | INFO | src.utils.logger:log_info:67 | Solar Cycle Analyzer (compatibility mode) initialized
+2025-10-01 21:18:11 | INFO | src.utils.logger:log_info:67 | AAPL: 6 isolation forest anomali tespit edildi
+2025-10-01 21:18:41 | INFO | src.utils.logger:log_info:67 | Ultra Moon Phases Analyzer initialized with professional lunar calculations
+2025-10-01 21:18:41 | INFO | src.utils.logger:log_info:67 | Moon Phases Analyzer (compatibility mode) initialized
+2025-10-01 21:18:41 | INFO | src.utils.logger:log_info:67 | Statistical Validation Analyzer başlatıldı
+2025-10-01 21:18:41 | INFO | src.utils.logger:log_info:67 | AAPL: Kapsamlı sinyal üretildi - TUT (Toplam Puan: 49.8, 20 modül)
+2025-10-01 21:18:41 | SUCCESS | src.utils.logger:log_success:83 | AAPL analizi tamamlandı - Sinyal: TUT, Puan: 49.8

@@ -45,10 +45,25 @@ class EnhancedSentimentAnalyzer:
     """
     
     def __init__(self):
-        # API Keys from environment
+        # API Keys from environment - with fallback defaults
         self.news_api_key = os.getenv('NEWS_API_KEY')
         self.reddit_client_id = os.getenv('REDDIT_CLIENT_ID')
         self.reddit_client_secret = os.getenv('REDDIT_CLIENT_SECRET')
+        self.reddit_user_agent = os.getenv('REDDIT_USER_AGENT', 'PlanBULTRA/1.0 by planb_trader')
+        
+        # Check if APIs are properly configured
+        self.news_enabled = bool(self.news_api_key and self.news_api_key != 'YOUR_NEWS_API_KEY')
+        self.reddit_enabled = bool(self.reddit_client_id and self.reddit_client_id != 'YOUR_REDDIT_CLIENT_ID')
+        
+        if not self.news_enabled:
+            logger.warning("News API key not found or using default - news sentiment disabled")
+        else:
+            logger.info("✅ News API configured successfully")
+            
+        if not self.reddit_enabled:
+            logger.warning("Reddit credentials not found or using defaults - reddit sentiment disabled")
+        else:
+            logger.info("✅ Reddit API configured successfully")
         
         # Reddit OAuth token
         self.reddit_token = None

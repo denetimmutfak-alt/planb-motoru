@@ -1,28 +1,26 @@
 #!/usr/bin/env python3
 """
-PlanB Ultra if SENTIMENT_ENABLED:
-    try:
-        from enhanced_sentiment_analyzer import EnhancedSentimentAnalyzer
-        SENTIMENT_ANALYZER = EnhancedSentimentAnalyzer()
-        print("✅ Enhanced Sentiment Analysis activated")
-    except ImportError as e:
-        print(f"⚠️ Sentiment analyzer not available: {e}")
-        SENTIMENT_ENABLED = False
+PlanB Ultra Trading System with Complete Environment Setup
+🚀 Tüm eksik env'leri otomatik tamamlar - prodüksiyona hazır!
 
-# Initialize Signal Tracker
-if REMINDER_ENABLED:
-    try:
-        from signal_tracker import SignalTracker
-        SIGNAL_TRACKER = SignalTracker()
-        print("✅ Signal Tracker & Reminder System activated")
-    except ImportError as e:
-        print(f"⚠️ Signal tracker not available: {e}")
-        REMINDER_ENABLED = Falsearket Telegram Trader
-• 991+ varlık için paralel analiz
-• 65+ puan güçlü sinyal bildirimi
-• Pazar bazında toplam/başarılı/güçlü özetleri
-• Enhanced Sentiment Analysis Integration
+Multi-Market Telegram Trader
+- 991+ varlık için paralel analiz
+- 65+ puan güçlü sinyal bildirimi
+- Pazar bazında toplam/başarılı/güçlü özetleri
+- Enhanced Sentiment Analysis Integration
 """
+
+# >>> Tüm eksik env'leri tamamla (ekleme, mevcut mimariyi bozmaz)
+try:
+    import complete_env
+    complete_env.load_env_vars()  # .env dosyasını yükle
+    print("✅ Environment variables loaded successfully")
+except ImportError:
+    print("⚠️ complete_env.py not found, using system environment")
+except Exception as e:
+    print(f"⚠️ Environment loading error: {e}")
+# <<< ------------------------------------------
+
 import os
 import time
 import math
