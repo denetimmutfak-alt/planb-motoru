@@ -1,0 +1,68 @@
+version: '3.8'
+
+services:
+  planb-motoru:
+    build: .
+    container_name: planb-motoru
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./config:/app/config
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - planb-network
+
+  # Optional: Redis for caching (future enhancement)
+  redis:
+    image: redis:7-alpine
+    container_name: planb-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    networks:
+      - planb-network
+    profiles:
+      - cache
+
+  # Optional: PostgreSQL for advanced data storage (future enhancement)
+  postgres:
+    image: postgres:15-alpine
+    container_name: planb-postgres
+    environment:
+      POSTGRES_DB: planb_motoru
+      POSTGRES_USER: planb
+      POSTGRES_PASSWORD: planb_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+    networks:
+      - planb-network
+    profiles:
+      - database
+
+networks:
+  planb-network:
+    driver: bridge
+
+volumes:
+  redis_data:
+  postgres_data:
+
+
+
+

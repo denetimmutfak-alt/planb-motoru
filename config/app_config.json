@@ -1,0 +1,59 @@
+{
+  "database": {
+    "path": "data/analiz_gecmisi.db",
+    "backup_enabled": true,
+    "backup_interval_hours": 24
+  },
+  "analysis": {
+    "default_period": "1y",
+    "rsi_period": 14,
+    "gann_period": 52,
+    "sentiment_model": "savasy/bert-base-turkish-sentiment-cased",
+    "max_symbols_per_batch": 50
+  },
+  "markets": {
+    "bist": {
+      "enabled": true,
+      "url": "https://www.isyatirim.com.tr/_layouts/15/IsYatirim.Website/Common/Handler/BorsaHandler.ashx?type=his"
+    },
+    "nasdaq": {
+      "enabled": true,
+      "url": "https://pkgstore.datahub.io/core/nasdaq-listings/nasdaq-listed_csv/data/..."
+    },
+    "xetra": {
+      "enabled": true,
+      "url": "https://www.boerse-frankfurt.de/data/xetra-list.csv"
+    },
+    "crypto": {
+      "enabled": true,
+      "api_url": "https://api.coingecko.com/api/v3/coins/markets",
+      "max_coins": 30
+    },
+    "commodities": {
+      "enabled": true,
+      "symbols": [
+        "GC=F", "SI=F", "CL=F", "NG=F", "ZC=F", "ZS=F", "ZW=F", "KC=F", "CC=F", "SB=F",
+        "PL=F", "PA=F", "HG=F", "OJ=F", "CT=F", "LBS=F", "RB=F", "HO=F", "B0=F", "B1=F",
+        "B2=F", "B3=F", "B4=F", "B5=F", "B6=F", "B7=F", "B8=F", "B9=F", "C0=F", "C1=F"
+      ]
+    }
+  },
+  "dashboard": {
+    "host": "0.0.0.0",
+    "port_range": [5000, 5100],
+    "auto_refresh_interval": 30,
+    "theme": "dark"
+  },
+  "logging": {
+    "level": "INFO",
+    "file_enabled": true,
+    "console_enabled": true,
+    "max_file_size_mb": 10,
+    "backup_count": 5
+  },
+  "security": {
+    "api_rate_limit": 100,
+    "request_timeout": 30,
+    "max_retries": 3
+  }
+}

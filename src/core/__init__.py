@@ -1,0 +1,4 @@
+"""
+PlanB Motoru - Core Modülü
+"""
+
