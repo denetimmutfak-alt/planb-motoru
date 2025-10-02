@@ -360,26 +360,38 @@ def load_bist_symbols() -> List[str]:
 
 def load_nasdaq_symbols() -> List[str]:
     """NASDAQ hisseleri"""
-    lines = _safe_read_lines(BASE_DIR / "nasdaq tam liste.txt")
+    lines = _safe_read_lines(BASE_DIR / "NASDAQ_TAM_LISTE_NEW.txt")
     return [_first_token(line) for line in lines]
 
 
 def load_crypto_symbols() -> List[str]:
     """Kripto listesi"""
-    lines = _safe_read_lines(BASE_DIR / "kripto tam liste.txt")
-    return [_first_token(line) for line in lines]
+    lines = _safe_read_lines(BASE_DIR / "KRIPTO_TAM_LISTE_NEW.txt")
+    symbols = [_first_token(line) for line in lines]
+    # Kripto için -USD suffix ekle
+    return [f"{symbol}-USD" for symbol in symbols if symbol]
 
 
 def load_commodity_symbols() -> List[str]:
     """Emtia listesi"""
-    lines = _safe_read_lines(BASE_DIR / "emtia tam liste.txt")
-    return [_first_token(line) for line in lines]
+    lines = _safe_read_lines(BASE_DIR / "EMTIA_TAM_LISTE_NEW.txt")
+    symbols = [_first_token(line) for line in lines]
+    # Emtia için futures suffix ekle
+    result = []
+    for symbol in symbols:
+        if symbol in ['GC', 'SI', 'CL', 'NG', 'PA', 'PL', 'ZC', 'ZW', 'ZS']:
+            result.append(f"{symbol}=F")
+        else:
+            result.append(symbol)
+    return result
 
 
 def load_xetra_symbols() -> List[str]:
     """XETRA (Almanya) listesi"""
-    lines = _safe_read_lines(BASE_DIR / "XETRA TAM LİSTE-.txt")
-    return [_first_token(line) for line in lines]
+    lines = _safe_read_lines(BASE_DIR / "XETRA_TAM_LISTE_NEW.txt")
+    symbols = [_first_token(line) for line in lines]
+    # XETRA için .DE suffix ekle
+    return [f"{symbol}.DE" for symbol in symbols if symbol]
 
 
 def get_sentiment_score(symbol: str) -> float:
