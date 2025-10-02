@@ -1,4 +1,13 @@
-# XETRA TAM LİSTESİ - Düzenli Format
+#!/usr/bin/env python3
+"""
+XETRA 271 Tam Liste Oluşturucu - Tekrarlarla Birlikte
+"""
+
+def xetra_271_tam_liste_olustur():
+    print("🔧 XETRA 271 TAM LİSTE OLUŞTURULUYOR...")
+    
+    # Attachment'dan tam liste (271 satır)
+    xetra_content = """# XETRA TAM LİSTESİ - Düzenli Format
 # Güncelleme: 03.10.2025 00:15
 # Toplam: 271 adet (tekrarlar dahil)
 
@@ -272,4 +281,22 @@ OSR - Osram Licht AG - 01.01.1919
 PBB - Deutsche Pfandbriefbank AG - 01.01.2009
 RAA - Rational AG - 01.01.1973
 RHK - Rhön-Klinikum AG - 01.01.1991
-SANT - SANTEC Corporation - 01.01.1979
+SANT - SANTEC Corporation - 01.01.1979"""
+    
+    # Dosyayı oluştur
+    with open("XETRA_TAM_LISTE_NEW_271.txt", "w", encoding="utf-8") as f:
+        f.write(xetra_content)
+    
+    # Satır sayımı kontrol et
+    satirlar = xetra_content.strip().split('\n')
+    veri_satirlari = [s for s in satirlar if s.strip() and not s.startswith('#')]
+    
+    print(f"✅ XETRA_TAM_LISTE_NEW_271.txt oluşturuldu")
+    print(f"📊 Toplam satırlar: {len(satirlar)}")
+    print(f"📈 Veri satırları: {len(veri_satirlari)}")
+    
+    return len(veri_satirlari)
+
+if __name__ == "__main__":
+    sayim = xetra_271_tam_liste_olustur()
+    print(f"\n🎉 SONUÇ: {sayim} XETRA HİSSESİ İLE TAM LİSTE HAZIR!")

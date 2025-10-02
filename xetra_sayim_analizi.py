@@ -1,8 +1,10 @@
-# XETRA TAM LİSTESİ - Düzenli Format
-# Güncelleme: 03.10.2025 00:15
-# Toplam: 271 adet (tekrarlar dahil)
+#!/usr/bin/env python3
+"""
+XETRA Attachment Tam Sayım Analizi
+"""
 
-ADS - Adidas SE - 18.08.1949
+# Attachment'dan tam metin
+xetra_attachment = """ADS - Adidas SE - 18.08.1949
 AIR - Airbus SE - 18.12.1970
 ALV - Allianz SE - 05.02.1890
 BAS - BASF SE - 21.04.1865
@@ -272,4 +274,65 @@ OSR - Osram Licht AG - 01.01.1919
 PBB - Deutsche Pfandbriefbank AG - 01.01.2009
 RAA - Rational AG - 01.01.1973
 RHK - Rhön-Klinikum AG - 01.01.1991
-SANT - SANTEC Corporation - 01.01.1979
+SANT - SANTEC Corporation - 01.01.1979"""
+
+def analiz_et():
+    print("🔍 XETRA ATTACHMENT TAM SAYIM ANALİZİ")
+    print("="*50)
+    
+    # Satırları ayır
+    satirlar = xetra_attachment.strip().split('\n')
+    
+    # Her satırı analiz et
+    hisseler = []
+    tekrarlayan = []
+    
+    for satir in satirlar:
+        if satir.strip():
+            # Kod al
+            parts = satir.split(' - ')
+            if len(parts) >= 2:
+                kod = parts[0].strip()
+                if kod in [h[0] for h in hisseler]:
+                    tekrarlayan.append(kod)
+                else:
+                    hisseler.append((kod, satir.strip()))
+    
+    print(f"📊 TOPLAM SATIRLAR: {len(satirlar)}")
+    print(f"📈 UNIQUE HİSSELER: {len(hisseler)}")
+    print(f"🔄 TEKRARLAYAN KODLAR: {len(tekrarlayan)}")
+    
+    if tekrarlayan:
+        print(f"\n⚠️ TEKRARLAYAN KODLAR:")
+        for kod in set(tekrarlayan):
+            count = [h[0] for h in satirlar].count(kod) if satirlar else 0
+            print(f"   {kod}: {count} kez")
+    
+    # Unique hisseleri dosyaya yaz
+    unique_content = []
+    seen_codes = set()
+    
+    for satir in satirlar:
+        if satir.strip():
+            parts = satir.split(' - ')
+            if len(parts) >= 2:
+                kod = parts[0].strip()
+                if kod not in seen_codes:
+                    unique_content.append(satir.strip())
+                    seen_codes.add(kod)
+    
+    print(f"\n✅ SONUÇ: {len(unique_content)} UNIQUE XETRA HİSSESİ")
+    
+    return unique_content
+
+if __name__ == "__main__":
+    unique_hisseler = analiz_et()
+    
+    # Unique listeyi göster
+    print(f"\n📝 İLK 10 UNIQUE HİSSE:")
+    for i, hisse in enumerate(unique_hisseler[:10]):
+        print(f"{i+1:3d}. {hisse}")
+    
+    print(f"\n📝 SON 10 UNIQUE HİSSE:")
+    for i, hisse in enumerate(unique_hisseler[-10:]):
+        print(f"{len(unique_hisseler)-9+i:3d}. {hisse}")
