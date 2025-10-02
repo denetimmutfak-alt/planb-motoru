@@ -1,6 +1,6 @@
 # KRİPTO TAM LİSTESİ - Düzenli Format
-# Güncelleme: 02.10.2025 23:50
-# Toplam: 78 adet
+# Güncelleme: 03.10.2025 00:30
+# Toplam: 80 adet
 
 BTC - Bitcoin - 03.01.2009
 ETH - Ethereum - 30.07.2015

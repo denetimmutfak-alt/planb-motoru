@@ -1,6 +1,6 @@
 # NASDAQ TAM LİSTESİ - Düzenli Format
-# Güncelleme: 02.10.2025 23:50
-# Toplam: 122 adet
+# Güncelleme: 03.10.2025 00:30
+# Toplam: 124 adet
 
 AAPL - Apple Inc. - 01.04.1976
 MSFT - Microsoft Corporation - 04.04.1975
@@ -125,3 +125,4 @@ MCHP - Microchip Technology Incorporated - 14.02.1989
 CDW - CDW Corporation - 01.01.1984
 GFS - GlobalFoundries Inc. - 01.01.2009
 ON - ON Semiconductor Corporation - 01.01.1999
+NFLX - Netflix Inc. - 29.08.1997
