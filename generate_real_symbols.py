@@ -5,14 +5,14 @@ Gerçek varlık listelerinden sembol dizilerini oluştur
 """
 
 def read_bist_symbols():
-    """BIST TAM LİSTEsi'nden sembolleri oku"""
+    """BIST 724 master listesinden sembolleri oku"""
     symbols = []
     try:
-        with open('bist liste-kuruluş tarihli-kodlu TAM LİSTE.txt', 'r', encoding='utf-8') as f:
+        with open('BIST_GUNCEL_TAM_LISTE_NEW.txt', 'r', encoding='utf-8') as f:
             for line in f:
-                if line.strip() and '\t' in line:
-                    symbol = line.split('\t')[0].strip()
-                    if symbol and not symbol.startswith('#'):
+                if line.strip() and ' - ' in line and not line.startswith('#'):
+                    symbol = line.split(' - ')[0].strip()
+                    if symbol and symbol.isalpha() and len(symbol) <= 6:  # BIST kod formatı
                         symbols.append(symbol)
     except Exception as e:
         print(f"BIST okuma hatası: {e}")
@@ -22,7 +22,7 @@ def read_crypto_symbols():
     """Kripto tam listesinden sembolleri oku"""
     symbols = []
     try:
-        with open('kripto tam liste.txt', 'r', encoding='utf-8') as f:
+        with open('KRIPTO_TAM_LISTE_NEW.txt', 'r', encoding='utf-8') as f:
             for line in f:
                 if line.strip() and ' - ' in line:
                     symbol = line.split(' - ')[0].strip()
@@ -37,7 +37,7 @@ def read_nasdaq_symbols():
     """NASDAQ tam listesinden sembolleri oku"""
     symbols = []
     try:
-        with open('nasdaq tam liste.txt', 'r', encoding='utf-8') as f:
+        with open('NASDAQ_TAM_LISTE_NEW.txt', 'r', encoding='utf-8') as f:
             for line in f:
                 if line.strip() and ' - ' in line:
                     symbol = line.split(' - ')[0].strip()
@@ -51,7 +51,7 @@ def read_commodity_symbols():
     """Emtia tam listesinden sembolleri oku"""
     symbols = []
     try:
-        with open('emtia tam liste.txt', 'r', encoding='utf-8') as f:
+        with open('EMTIA_TAM_LISTE_NEW.txt', 'r', encoding='utf-8') as f:
             for line in f:
                 if line.strip() and ' - ' in line:
                     symbol = line.split(' - ')[0].strip()
@@ -69,7 +69,7 @@ def read_xetra_symbols():
     """XETRA tam listesinden sembolleri oku"""
     symbols = []
     try:
-        with open('XETRA TAM LİSTE-.txt', 'r', encoding='utf-8') as f:
+        with open('XETRA_TAM_LISTE_NEW.txt', 'r', encoding='utf-8') as f:
             for line in f:
                 if line.strip() and ' - ' in line:
                     symbol = line.split(' - ')[0].strip()

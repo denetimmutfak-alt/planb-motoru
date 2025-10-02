@@ -10,7 +10,7 @@ from datetime import datetime
 print("📂 YEREL DOSYA DURUMU:")
 
 files_to_check = [
-    "BIST_GUNCEL_TAM_LISTE_NEW.txt",
+    "BIST_GUNCEL_TAM_LISTE_NEW.txt",  # 724 hisse master liste
     "crypto_corporate_data.py", 
     "commodity_corporate_data.py",
     "enhanced_sentiment_sources.py",

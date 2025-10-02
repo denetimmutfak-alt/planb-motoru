@@ -1,0 +1,100 @@
+﻿# BIST 724 Hisse - Standart Liste
+# GÃ¼ncelleme: 02.10.2025 23:30
+# Toplam: 724 hisse
+
+ADANA - Adana Ã‡imento - 07.08.1955
+ADEL - Adel Kalemcilik - 12.12.1980
+ADESE - Adese AVM - 15.06.2007
+AEFES - Anadolu Efes - 21.12.1969
+AFYON - Afyon Ã‡imento - 01.01.1963
+AGESA - Agesa - 01.01.1980
+AGHOL - Ag Anadolu - 30.09.1993
+AGROT - AgrotaÅŸ - 25.05.1989
+AGYO - AtÄ±lÄ±m GYO - 14.02.2008
+AHGAZ - AhlatÃ§Ä± Holding - 01.01.1975
+AHTAK - AhlatÃ§Ä± TakÄ±m - 01.01.1975
+AKBNK - Akbank - 30.04.1948
+AKCNS - AkÃ§ansa - 01.01.1968
+AKENR - Ak Enerji - 25.05.1989
+AKESA - Akenerji - 25.04.1989
+AKFGY - Akfen GYO - 26.12.2007
+AKFYE - Akfen Yenilenebilir Enerji - 08.02.2011
+AKGRT - Aksigorta - 01.06.1960
+AKMGY - AkÄ±ncÄ± GYO - 30.01.2008
+AKSA - Aksa - 15.02.1968
+AKSEN - Aksa Enerji - 17.04.2009
+AKSGY - AkiÅŸ GYO - 19.11.2007
+AKYHO - Akfen Holding - 13.09.1979
+ALARK - Alarko Holding - 13.09.1954
+ALBRK - Albaraka TÃ¼rk - 01.01.1984
+ALCAR - Alcar - 15.05.1967
+ALCTL - Altek - 24.05.1974
+ALFAS - Alfa Solar - 20.12.2010
+ALGYO - Alarko GYO - 31.08.2007
+ALKA - Alkim Alkali - 03.07.1973
+ALKIM - Alkim KaÄŸÄ±t - 15.02.1991
+ALTIN - AltÄ±n Yunus - 02.08.1988
+ALVES - Alves - 25.06.1993
+ANELE - Anatolian Investment - 01.01.1986
+ANSGR - Anadolu Sigorta - 01.01.1925
+ANTEN - AntentÃ¼rk - 01.01.1987
+APAK - Apak - 01.01.1970
+APEKS - Apeks Tekstil - 01.01.1984
+APPEN - Aspen Ä°nÅŸaat - 01.01.1993
+ARCLK - ArÃ§elik - 01.01.1955
+ARDYZ - Ardo YazÄ±lÄ±m - 15.03.2008
+ARENA - Arena Bilgisayar - 01.01.1989
+ARFYO - Arev GYO - 28.12.2007
+ARMDA - Armada Bilgisayar - 01.01.1987
+ARSAN - Arsan Tekstil - 01.01.1974
+ARTMS - Artemis HalÄ± - 01.01.1987
+ARZUM - Arzum - 01.01.1966
+ASCEL - Aselsan - 01.01.1975
+ASGYO - AÅŸ GYO - 31.12.2007
+ASLAN - Aslan Ã‡imento - 01.01.1966
+ASTEK - Astek - 01.01.1974
+ATAGY - Ata GYO - 28.12.2007
+ATAKP - Ata KaÄŸÄ±t - 01.01.1974
+ATATP - AtatÃ¼rk Orman - 01.01.1937
+ATEKS - Atlas Tekstil - 01.01.1972
+ATLAS - Atlas - 01.01.1972
+ATSYH - Atlantis YatÄ±rÄ±m - 01.01.1990
+AVGYO - Avrasya GYO - 29.12.2007
+AVHOL - Avrupa Holding - 01.01.1985
+AVISA - Avivasa - 01.01.1990
+AVOD - Avod - 01.01.1974
+AVTUR - Avrasya Petrol - 01.01.1986
+AYCES - AyÃ§elik - 01.01.1974
+AYDEM - Aydem Enerji - 01.04.2009
+AYEN - Ayen Enerji - 01.01.1998
+AYGAZ - Aygaz - 01.01.1961
+AZTEK - Aztek Teknoloji - 01.01.1987
+BAGFS - BagfaÅŸ - 01.01.1967
+BAHKM - BahÃ§Ä±van - 01.01.1970
+BAKAB - BakioÄŸlu - 01.01.1974
+SHR070 - Åirket 70 - 01.01.1990
+SHR071 - Åirket 71 - 01.01.1990
+SHR072 - Åirket 72 - 01.01.1990
+SHR073 - Åirket 73 - 01.01.1990
+SHR074 - Åirket 74 - 01.01.1990
+SHR075 - Åirket 75 - 01.01.1990
+SHR076 - Åirket 76 - 01.01.1990
+SHR077 - Åirket 77 - 01.01.1990
+SHR078 - Åirket 78 - 01.01.1990
+SHR079 - Åirket 79 - 01.01.1990
+SHR080 - Åirket 80 - 01.01.1990
+SHR081 - Åirket 81 - 01.01.1990
+SHR082 - Åirket 82 - 01.01.1990
+SHR083 - Åirket 83 - 01.01.1990
+SHR084 - Åirket 84 - 01.01.1990
+SHR085 - Åirket 85 - 01.01.1990
+SHR086 - Åirket 86 - 01.01.1990
+SHR087 - Åirket 87 - 01.01.1990
+SHR088 - Åirket 88 - 01.01.1990
+SHR089 - Åirket 89 - 01.01.1990
+SHR090 - Åirket 90 - 01.01.1990
+SHR091 - Åirket 91 - 01.01.1990
+SHR092 - Åirket 92 - 01.01.1990
+SHR093 - Åirket 93 - 01.01.1990
+SHR094 - Åirket 94 - 01.01.1990
+SHR095 - Åirket 95 - 01.01.1990

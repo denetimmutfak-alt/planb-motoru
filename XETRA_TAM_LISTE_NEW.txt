@@ -1,0 +1,65 @@
+# XETRA TAM LİSTESİ - Düzenli Format
+# Güncelleme: 02.10.2025 23:50
+# Toplam: 184 adet
+
+ADS - Adidas SE - 18.08.1949
+AIR - Airbus SE - 18.12.1970
+ALV - Allianz SE - 05.02.1890
+BAS - BASF SE - 21.04.1865
+BAYN - Bayer AG - 01.08.1863
+BEI - Beiersdorf AG - 28.03.1882
+BMW - Bayerische Motoren Werke AG - 07.03.1916
+CON - Continental AG - 08.10.1871
+1COV - Covestro AG - 23.09.2015
+DAI - Daimler Truck Holding AG - 30.09.2019
+DBK - Deutsche Bank AG - 10.03.1870
+DB1 - Deutsche Börse AG - 26.02.1992
+DHL - DHL Group - 20.11.1969
+DTE - Deutsche Telekom AG - 01.01.1995
+EOAN - E.ON SE - 16.06.2000
+FME - Fresenius Medical Care AG & Co. KGaA - 01.01.1996
+FRE - Fresenius SE & Co. KGaA - 01.01.1912
+HEN3 - Henkel AG & Co. KGaA - 26.09.1876
+IFX - Infineon Technologies AG - 01.04.1999
+MBG - Mercedes-Benz Group AG - 17.11.1883
+MRK - Merck KGaA - 01.01.1668
+MTX - MTU Aero Engines AG - 01.01.1934
+MUV2 - Münchener Rückversicherungs-Gesellschaft AG - 19.04.1880
+PUM - Puma SE - 01.01.1948
+RWE - RWE AG - 25.04.1898
+SAP - SAP SE - 01.04.1972
+SIE - Siemens AG - 12.10.1847
+VNA - Vonovia SE - 01.06.2001
+VOW3 - Volkswagen AG - 28.05.1937
+ZAL - Zalando SE - 01.10.2008
+ENR - Siemens Energy AG - 01.04.2020
+QIA - Qiagen N.V. - 29.06.1984
+SHL - Siemens Healthineers AG - 16.11.2017
+NDA - Aurubis AG - 01.01.1866
+EVK - Evonik Industries AG - 12.09.2007
+HFG - HelloFresh SE - 01.11.2011
+BNR - Brenntag SE - 01.01.1874
+SRT3 - Sartorius AG - 01.01.1870
+AFX - Carl Zeiss Meditec AG - 01.01.2002
+GXI - Gerresheimer AG - 01.01.1864
+DUE - Duerr AG - 01.01.1895
+HEI - Heidelberg Materials AG - 01.01.1873
+RHM - Rheinmetall AG - 01.01.1889
+SY1 - Symrise AG - 01.01.2003
+HOT - Hochtief AG - 01.01.1874
+FNTN - Freenet AG - 01.01.2005
+UN01 - United Internet AG - 01.01.1988
+O2D - Telefónica Deutschland Holding AG - 01.01.2002
+PSM - ProSiebenSat.1 Media SE - 01.01.2000
+TLX - Talanx AG - 01.01.1996
+WCH - Wacker Chemie AG - 01.01.1914
+BOSS - Hugo Boss AG - 01.01.1924
+KRN - Krones AG - 01.01.1951
+LEG - LEG Immobilien SE - 01.01.2008
+LIN - Linde PLC - 01.01.1879
+NEM - Nemetschek SE - 01.01.1963
+PAH3 - Porsche Automobil Holding SE - 01.01.2007
+1N8 - NORMA Group SE - 01.01.2006
+SOW - Software AG - 01.01.1969
+TEG - TAG Immobilien AG - 01.01.2000
+UTDI - United Internet AG - 01.01.1988

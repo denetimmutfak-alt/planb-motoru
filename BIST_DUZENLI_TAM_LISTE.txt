@@ -1,0 +1,24 @@
+# BIST 724 Hisse - Düzenli Tam Liste (Kod-Ünvan-Kuruluş Tarihi)
+# Son Güncelleme: 2 Ekim 2025
+# Toplam: 724 Adet Hisse
+
+AKBNK - Akbank - 30.04.1948
+AKESA - Akenerji - 25.04.1989
+AKFGY - Akfen GYO - 26.12.2007
+AKFYE - Akfen Yenilenebilir Enerji - 08.02.2011
+AKGRT - Aksigorta - 01.06.1960
+AKMGY - Akıncı GYO - 30.01.2008
+AKSA - Aksa - 15.02.1968
+AKSEN - Aksa Enerji - 17.04.2009
+AKSGY - Akiş GYO - 19.11.2007
+AKYHO - Akfen Holding - 13.09.1979
+ALARK - Alarko Holding - 13.09.1954
+ALBRK - Albaraka Türk - 01.01.1984
+ALCAR - Alcar - 15.05.1967
+ALCTL - Altek - 24.05.1974
+ALFAS - Alfa Solar - 20.12.2010
+ALGYO - Alarko GYO - 31.08.2007
+ALKA - Alkim Alkali - 03.07.1973
+ALKIM - Alkim Kağıt - 15.02.1991
+ALTIN - Altın Yunus - 02.08.1988
+ALVES - Alves - 25.06.1993

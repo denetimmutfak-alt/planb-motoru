@@ -10,9 +10,9 @@ import re
 from typing import Dict, List, Tuple
 
 def count_bist_foundation_dates():
-    """BIST kuruluş tarihli varlıkları say"""
+    """BIST 724 master listesindeki kuruluş tarihlerini say"""
     count = 0
-    file_path = "bist liste-kuruluş tarihli-kodlu TAM LİSTE.txt"
+    file_path = "BIST_GUNCEL_TAM_LISTE_NEW.txt"  # 724 hisse master liste
     
     try:
         with open(file_path, 'r', encoding='utf-8') as f:

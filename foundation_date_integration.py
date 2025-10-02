@@ -188,7 +188,7 @@ def demonstrate_integration_examples():
 
 if __name__ == "__main__":
     # Dosya yolunu belirle
-    file_path = "bist liste-kuruluş tarihli-kodlu TAM LİSTE.txt"
+    file_path = "BIST_GUNCEL_TAM_LISTE_NEW.txt"  # 724 hisse master liste
     
     print("🔍 BIST Kuruluş Tarihli Dosya Analizi Başlıyor...")
     

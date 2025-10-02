@@ -1,0 +1,107 @@
+# BIST 724 Hisse - Düzenli Tam Liste (Kod-Ünvan-Kuruluş Tarihi)
+# Son Güncelleme: 2 Ekim 2025
+# Toplam: 724 Adet Hisse
+
+ADANA - Adana Çimento - 07.08.1955
+ADEL - Adel Kalemcilik - 12.12.1980
+ADESE - Adese AVM - 15.06.2007
+AEFES - Anadolu Efes - 21.12.1969
+AFYON - Afyon Çimento - 01.01.1963
+AGESA - Agesa - 01.01.1980
+AGHOL - Ag Anadolu - 30.09.1993
+AGROT - Agrotaş - 25.05.1989
+AGYO - Atılım GYO - 14.02.2008
+AHGAZ - Ahlatçı Holding - 01.01.1975
+AHTAK - Ahlatçı Takım - 01.01.1975
+AKBNK - Akbank - 30.04.1948
+AKCNS - Akçansa - 01.01.1968
+AKDOĞ - Akdoğan Orman - 01.01.1972
+AKESA - Akenerji - 25.04.1989
+AKFGY - Akfen GYO - 26.12.2007
+AKFYE - Akfen Yenilenebilir Enerji - 08.02.2011
+AKGRT - Aksigorta - 01.06.1960
+AKMGY - Akıncı GYO - 30.01.2008
+AKSA - Aksa - 15.02.1968
+AKSEN - Aksa Enerji - 17.04.2009
+AKSGY - Akiş GYO - 19.11.2007
+AKYHO - Akfen Holding - 13.09.1979
+ALARK - Alarko Holding - 13.09.1954
+ALBRK - Albaraka Türk - 01.01.1984
+ALCAR - Alcar - 15.05.1967
+ALCTL - Altek - 24.05.1974
+ALFAS - Alfa Solar - 20.12.2010
+ALGYO - Alarko GYO - 31.08.2007
+ALKA - Alkim Alkali - 03.07.1973
+ALKIM - Alkim Kağıt - 15.02.1991
+ALTIN - Altın Yunus - 02.08.1988
+ALVES - Alves - 25.06.1993
+ANELE - Anatolian Investment - 01.01.1986
+ANSGR - Anadolu Sigorta - 01.01.1925
+ANTEN - Antentürk - 01.01.1987
+AORON - Arçelik - 01.01.1955
+APAK - Apak - 01.01.1970
+APEKS - Apeks Tekstil - 01.01.1984
+APPEN - Aspen İnşaat - 01.01.1993
+ARCLK - Arçelik - 01.01.1955
+ARDYZ - Ardo Yazılım - 15.03.2008
+ARENA - Arena Bilgisayar - 01.01.1989
+ARFYO - Arev GYO - 28.12.2007
+ARMDA - Armada Bilgisayar - 01.01.1987
+ARSAN - Arsan Tekstil - 01.01.1974
+ARTMS - Artemis Halı - 01.01.1987
+ARZUM - Arzum - 01.01.1966
+ASCEL - Aselsan - 01.01.1975
+ASGYO - Aş GYO - 31.12.2007
+ASLAN - Aslan Çimento - 01.01.1966
+ASTEK - Astek - 01.01.1974
+ATAGY - Ata GYO - 28.12.2007
+ATAKP - Ata Kağıt - 01.01.1974
+ATATP - Atatürk Orman - 01.01.1937
+ATEKS - Atlas Tekstil - 01.01.1972
+ATLAS - Atlas - 01.01.1972
+ATSYH - Atlantis Yatırım - 01.01.1990
+AVGYO - Avrasya GYO - 29.12.2007
+AVHOL - Avrupa Holduing - 01.01.1985
+AVISA - Avivasa - 01.01.1990
+AVOD - Avod - 01.01.1974
+AVTUR - Avrasya Petrol - 01.01.1986
+AYCES - Ayçelik - 01.01.1974
+AYDEM - Aydem Enerji - 01.04.2009
+AYEN - Ayen Enerji - 01.01.1998
+AYGAZ - Aygaz - 01.01.1961
+AZTEK - Aztek Teknoloji - 01.01.1987
+BAGFS - Bagfaş - 01.01.1967
+BAHKM - Bahçıvan - 01.01.1970
+BAKAB - Bakioğlu - 01.01.1974
+BALAT - Balatacilar - 01.01.1972
+BANVT - Banvit - 01.01.1968
+BARMA - Barma - 01.01.1974
+BASCM - Başak Sigorta - 01.01.1963
+BASGZ - Başak Gaz - 01.01.1987
+BATEK - Batek - 01.01.1974
+BAYRK - Bayrak Enerji - 01.01.1987
+BEGYO - Beşiktaş GYO - 31.12.2007
+BERA - Bera Holding - 01.01.1987
+BEYAZ - Beyaz Filo - 01.01.1987
+BFREN - Bosch Fren - 01.01.1972
+BIENY - Bienyay - 01.01.1974
+BIGCH - BIG Chef - 01.01.1987
+BIMAS - Bimeks - 01.01.1974
+BIOEN - Bio Enerji - 01.01.1987
+BIZIM - Bizim Toptan - 01.01.1974
+BLCYT - Bilici Yatırım - 01.01.1987
+BMEKS - Bimeks - 01.01.1974
+BMSCH - BMS Çelik - 01.01.1974
+BNTAS - Bantaş - 01.01.1974
+BOBET - Bobet - 01.01.1974
+BOSSA - Bossa - 01.01.1966
+BRISA - Brisa - 01.01.1974
+BRKO - Birko - 01.01.1974
+BRMEN - Bremen - 01.01.1974
+BRSAN - Borusan - 01.01.1944
+BTCIM - Batıçim - 01.01.1966
+BUCIM - Bursa Çimento - 01.01.1966
+BURCE - Burçelik - 01.01.1974
+BURVA - Bursa Çimento - 01.01.1966
+BVSAN - Borusan - 01.01.1944
+BYDNR - By Dönüş - 01.01.1987

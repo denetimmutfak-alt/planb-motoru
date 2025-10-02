@@ -102,7 +102,7 @@ class FoundationDateProcessor:
             ("nasdaq tam liste.txt", "NASDAQ"),
             ("emtia tam liste.txt", "COMMODITY"),
             ("XETRA TAM LİSTE-.txt", "XETRA"),
-            ("bist liste-kuruluş tarihli-kodlu TAM LİSTE.txt", "BIST")
+            ("BIST_GUNCEL_TAM_LISTE_NEW.txt", "BIST")  # 724 hisse master liste
         ]
         
         for file_path, market_type in file_mappings:
